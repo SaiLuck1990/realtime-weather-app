@@ -6,6 +6,6 @@ This is weather app built using Node JS . It renders the weather of any location
 ##  Screenshot of app
 
 
-![](DemoPage1.png)
+![](Demo-page1.png)
 
 
